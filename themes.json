@@ -69,7 +69,7 @@
         },
         "retro-terminal": {
           "css": [
-            "https://nozeitgeist.github.io\n/css/addons/unraid/login-page/retro-terminal/red.css?sha=1b13e1d5d64ef3d22b17bf47f3c04845",
+            "https://nozeitgeist.github.io\n/css/addons/unraid/login-page/retro-terminal/red.css?sha=90bebbf5454281ec241e12e807778b8c",
             "https://nozeitgeist.github.io\n/css/addons/unraid/login-page/retro-terminal/amber.css?sha=54cf35d4554023944c907f44653db03d",
             "https://nozeitgeist.github.io\n/css/addons/unraid/login-page/retro-terminal/retro-terminal-base.css?sha=68c9a21adb524cab2e153a66c6a68d70",
             "https://nozeitgeist.github.io\n/css/addons/unraid/login-page/retro-terminal/green.css?sha=8bff192aff5e98d97e8d1980dd6fd664",
@@ -432,7 +432,7 @@
           },
           "retro-terminal": {
             "css": [
-              "https://nozeitgeist.github.io\n/css/addons/unraid/login-page/retro-terminal/red.css?sha=1b13e1d5d64ef3d22b17bf47f3c04845",
+              "https://nozeitgeist.github.io\n/css/addons/unraid/login-page/retro-terminal/red.css?sha=90bebbf5454281ec241e12e807778b8c",
               "https://nozeitgeist.github.io\n/css/addons/unraid/login-page/retro-terminal/amber.css?sha=54cf35d4554023944c907f44653db03d",
               "https://nozeitgeist.github.io\n/css/addons/unraid/login-page/retro-terminal/retro-terminal-base.css?sha=68c9a21adb524cab2e153a66c6a68d70",
               "https://nozeitgeist.github.io\n/css/addons/unraid/login-page/retro-terminal/green.css?sha=8bff192aff5e98d97e8d1980dd6fd664",
